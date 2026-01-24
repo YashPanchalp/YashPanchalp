@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on : Full-stack Projects<br>👯 I’m looking to collaborate on : Web Dev websites<br>🤝 I’m looking for help with : Design and styling with logic<br>🌱 I’m currently learning : React with the Databases and Java.<br>💬 Ask me about :  Any-thing?
+🔭 I’m currently working on : Full-stack Projects<br>👯 I’m looking to collaborate on : Frontend of websites<br>🤝 I’m looking for help with : Design and styling with logic<br>🌱 I’m currently learning : React with the Databases and Java.<br>💬 Ask me about :  Any-thing?
 
 
 ## 🌐 Socials:
