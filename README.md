@@ -119,9 +119,13 @@ My core strength lies in combining **Data Structures & Algorithms (DSA)** with d
 # 🚀 Experience Highlights
 
 ✔️ Full Stack Development (Frontend + Backend + Database Integration)
+
 ✔️ REST API Design & Secure Backend Architecture
+
 ✔️ Internship with real-world project exposure
+
 ✔️ Strong DSA & Problem Solving Approach
+
 ✔️ Exploring AI-driven application development
 
 ---
