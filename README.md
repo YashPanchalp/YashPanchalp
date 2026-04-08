@@ -1,17 +1,19 @@
 # 🚀 Yash Panchal | Full Stack Developer
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;Building+Scalable+Web+Apps;Always+Learning+New+Tech" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer+%F0%9F%92%BB;MERN+Stack+%7C+Java+Developer;DSA+%7C+GenAI+Enthusiast;Building+Scalable+Systems" />
+
+<img src="https://user-images.githubusercontent.com/74038190/212284126-1c8c6e3f-5f43-4b6b-9f5d-9a4d2c9b983d.gif" width="100%">
 
 ---
 
 ## 💫 About Me
 
-🔭 Currently building **scalable full-stack applications**
-💼 Completed **Full Stack Internship (Hands-on Experience)**
-🧠 Strong in **Frontend + Backend + Databases**
-🌱 Exploring **Advanced React, APIs & System Design**
-🤝 Open to collaborate on **Web Apps & UI Projects**
-💬 Ask me about **MERN, Java, Databases & APIs**
+💼 **Java Developer Intern @ Infosys Springboard**
+🎓 IT Student at **LD College of Engineering**
+🔭 Building **Full Stack (MERN + Java) Applications**
+🧠 Strong in **Data Structures & Algorithms**
+🌱 Exploring **Generative AI & Scalable Backend Systems**
+🤝 Open to collaborate on **Frontend + Full Stack Projects**
 
 ---
 
@@ -19,12 +21,12 @@
 
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge\&logo=discord\&logoColor=white)](https://discord.gg/yash7706_)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://instagram.com/yash_776_)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/yash-panchal-ldce-it)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/yash-panchal-ldce-it/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:776yashp@gmail.com)
 
 ---
 
-## ⚡ Tech Stack
+# ⚡ Tech Stack
 
 ### 🧠 Languages
 
@@ -35,9 +37,8 @@
 ### 🎨 Frontend
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
 
 ### ⚙️ Backend
 
@@ -47,56 +48,53 @@
 ### 🗄️ Databases
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-
-### ☁️ Tools & Platforms
-
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge\&logo=github\&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge\&logo=vercel\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
 
 ---
 
-## 📊 GitHub Analytics
+# 📊 GitHub Analytics (FIXED ✅)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YashPanchalp&show_icons=true&theme=tokyonight&hide_border=true" height="180em"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=YashPanchalp&theme=tokyonight&hide_border=true" height="180em"/>
+<img src="https://github-readme-stats.vercel.app/api?username=YashPanchalp&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="170"/>
+<img src="https://streak-stats.demolab.com?user=YashPanchalp&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashPanchalp&layout=compact&theme=tokyonight&hide_border=true" height="180em"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YashPanchalp&theme=tokyonight"/>
 </p>
 
 ---
 
-## 🏆 Achievements
+# 📈 3D Contribution Graph
 
-![](https://github-profile-trophy.vercel.app/?username=YashPanchalp\&theme=radical\&no-frame=true\&no-bg=true\&margin-w=6)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=YashPanchalp&theme=tokyonight" />
 
----
-
-## 🔥 Contribution Graph
-
-[![Yash's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YashPanchalp\&theme=tokyo-night)](https://github.com/YashPanchalp)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YashPanchalp&theme=react-dark" />
 
 ---
 
-## 🚀 What I Bring
+# 🏆 Achievements & Activity
 
-✔️ Full-stack development experience (Frontend + Backend + DB)
-✔️ Hands-on internship with real-world project exposure
-✔️ REST API development & integration
-✔️ Clean UI + structured backend architecture
-✔️ Problem-solving with scalable solutions
+<img src="https://github-profile-trophy.vercel.app/?username=YashPanchalp&theme=radical&no-frame=true&margin-w=6" />
 
 ---
 
-## 👀 Profile Views
+# 🚀 Experience Highlights
 
-![](https://visitcount.itsvg.in/api?id=YashPanchalp\&icon=5\&color=6)
+✔️ Full Stack Development (Frontend + Backend + DB)
+✔️ REST API Development & Integration
+✔️ Internship with real-world exposure
+✔️ Strong Problem Solving (DSA)
+✔️ Exploring AI & scalable systems
 
 ---
 
-✨ *"Code. Build. Learn. Repeat."*
+# 👀 Visitors
+
+<img src="https://visitcount.itsvg.in/api?id=YashPanchalp&icon=6&color=0"/>
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0F2027&height=120&section=footer"/>
+
+✨ *"Turning ideas into scalable digital experiences."*
