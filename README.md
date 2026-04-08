@@ -1,6 +1,6 @@
 # 🚀 Yash Panchal | Full Stack Developer
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer+%F0%9F%92%BB;MERN+Stack+%7C+Java+Developer;DSA+%7C+GenAI+Enthusiast;Building+Scalable+Systems" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;MERN+Stack+%7C+Java+Developer;DSA+%7C+GenAI+Enthusiast;Building+Scalable+Web+Applications" />
 
 <img src="https://user-images.githubusercontent.com/74038190/212284126-1c8c6e3f-5f43-4b6b-9f5d-9a4d2c9b983d.gif" width="100%">
 
@@ -8,12 +8,22 @@
 
 ## 💫 About Me
 
-💼 **Java Developer Intern @ Infosys Springboard**
-🎓 IT Student at **LD College of Engineering**
-🔭 Building **Full Stack (MERN + Java) Applications**
-🧠 Strong in **Data Structures & Algorithms**
-🌱 Exploring **Generative AI & Scalable Backend Systems**
-🤝 Open to collaborate on **Frontend + Full Stack Projects**
+💼 **Full Stack Developer | Java Developer Intern @ Infosys Springboard**
+🎓 IT Undergraduate at **LD College of Engineering**
+
+I am a **results-driven Full Stack Developer** with hands-on experience in building scalable web applications using the **MERN stack (MongoDB, Express.js, React, Node.js)** along with strong foundations in **Java development**.
+
+I have practical exposure to **designing RESTful APIs, database architecture (SQL & NoSQL), and responsive frontend interfaces**, gained through real-world projects and internship experience.
+
+My core strength lies in combining **Data Structures & Algorithms (DSA)** with development skills to build **efficient, optimized, and maintainable systems**. I am also actively exploring **Generative AI concepts** and their integration into modern applications.
+
+🔹 Strong in **Full Stack Development (Frontend + Backend + Databases)**
+🔹 Experience with **API Development, Authentication, and CRUD Systems**
+🔹 Proficient in **MongoDB, MySQL, and Backend Architecture Design**
+🔹 Solid understanding of **DSA, Problem Solving & System Thinking**
+🔹 Familiar with **Deployment (Vercel) & Version Control (Git/GitHub)**
+
+🚀 Passionate about building **scalable, user-centric applications** and continuously learning new technologies.
 
 ---
 
@@ -52,7 +62,7 @@
 
 ---
 
-# 📊 GitHub Analytics (FIXED ✅)
+# 📊 GitHub Analytics
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=YashPanchalp&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="170"/>
@@ -65,15 +75,13 @@
 
 ---
 
-# 📈 3D Contribution Graph
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=YashPanchalp&theme=tokyonight" />
+# 📈 Contribution & Activity
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=YashPanchalp&theme=react-dark" />
 
 ---
 
-# 🏆 Achievements & Activity
+# 🏆 Achievements
 
 <img src="https://github-profile-trophy.vercel.app/?username=YashPanchalp&theme=radical&no-frame=true&margin-w=6" />
 
@@ -81,11 +89,11 @@
 
 # 🚀 Experience Highlights
 
-✔️ Full Stack Development (Frontend + Backend + DB)
-✔️ REST API Development & Integration
-✔️ Internship with real-world exposure
-✔️ Strong Problem Solving (DSA)
-✔️ Exploring AI & scalable systems
+✔️ Full Stack Development (Frontend + Backend + Database Integration)
+✔️ REST API Design & Secure Backend Architecture
+✔️ Internship with real-world project exposure
+✔️ Strong DSA & Problem Solving Approach
+✔️ Exploring AI-driven application development
 
 ---
 
