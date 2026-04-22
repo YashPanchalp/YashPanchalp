@@ -18,9 +18,13 @@ I have practical exposure to **designing RESTful APIs, database architecture (SQ
 My core strength lies in combining **Data Structures & Algorithms (DSA)** with development skills to build **efficient, optimized, and maintainable systems**. I am also actively exploring **Generative AI concepts** and their integration into modern applications.
 
 🔹 Strong in **Full Stack Development (Frontend + Backend + Databases)**
+
 🔹 Experience with **API Development, Authentication, and CRUD Systems**
+
 🔹 Proficient in **MongoDB, MySQL, and Backend Architecture Design**
+
 🔹 Solid understanding of **DSA, Problem Solving & System Thinking**
+
 🔹 Familiar with **Deployment (Vercel) & Version Control (Git/GitHub)**
 
 🚀 Passionate about building **scalable, user-centric applications** and continuously learning new technologies.
