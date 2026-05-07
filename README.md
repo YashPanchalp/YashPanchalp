@@ -1,122 +1,184 @@
 # 🚀 Yash Panchal | Full Stack Developer
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;MERN+Stack+%7C+Java+Developer;DSA+%7C+GenAI+Enthusiast;Building+Scalable+Web+Applications" />
+<h1 align="center">Hi 👋, I'm Yash Panchal</h1>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284126-1c8c6e3f-5f43-4b6b-9f5d-9a4d2c9b983d.gif" width="100%">
+<h3 align="center">
+Full Stack Developer • MERN Stack • Java Developer • GenAI Enthusiast
+</h3>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;MERN+Stack+Developer;Java+Developer;DSA+Problem+Solver;Building+AI+Powered+Applications" />
+</p>
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284126-1c8c6e3f-5f43-4b6b-9f5d-9a4d2c9b983d.gif" width="100%" />
+</p>
 
 ---
 
-## 💫 About Me
+# 💫 About Me
 
-💼 **Full Stack Developer | Java Developer Intern @ Infosys Springboard**
+💼 **Full Stack Developer | Java Developer Intern @ Infosys Springboard**  
 🎓 IT Undergraduate at **LD College of Engineering**
 
-I am a **results-driven Full Stack Developer** with hands-on experience in building scalable web applications using the **MERN stack (MongoDB, Express.js, React, Node.js)** along with strong foundations in **Java development**.
+I am a passionate Full Stack Developer skilled in building scalable web applications using the MERN stack and Java technologies.
 
-I have practical exposure to **designing RESTful APIs, database architecture (SQL & NoSQL), and responsive frontend interfaces**, gained through real-world projects and internship experience.
+🔹 Full Stack Development (Frontend + Backend + Databases)  
+🔹 REST API Development & Authentication Systems  
+🔹 MongoDB, MySQL & Backend Architecture  
+🔹 DSA, Problem Solving & System Design  
+🔹 Deployment using Vercel & GitHub  
+🔹 Exploring Generative AI Integration
 
-My core strength lies in combining **Data Structures & Algorithms (DSA)** with development skills to build **efficient, optimized, and maintainable systems**. I am also actively exploring **Generative AI concepts** and their integration into modern applications.
-
-🔹 Strong in **Full Stack Development (Frontend + Backend + Databases)**
-
-🔹 Experience with **API Development, Authentication, and CRUD Systems**
-
-🔹 Proficient in **MongoDB, MySQL, and Backend Architecture Design**
-
-🔹 Solid understanding of **DSA, Problem Solving & System Thinking**
-
-🔹 Familiar with **Deployment (Vercel) & Version Control (Git/GitHub)**
-
-🚀 Passionate about building **scalable, user-centric applications** and continuously learning new technologies.
+🚀 Passionate about building scalable and user-centric digital products.
 
 ---
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge\&logo=discord\&logoColor=white)](https://discord.gg/yash7706_)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://instagram.com/yash_776_)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/yash-panchal-ldce-it/)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:776yashp@gmail.com)
+<p align="center">
+
+<a href="https://discord.gg/yash7706_">
+<img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
+</a>
+
+<a href="https://instagram.com/yash_776_">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/yash-panchal-ldce-it/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:776yashp@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</p>
 
 ---
 
 # ⚡ Tech Stack
 
-### 🧠 Languages
+## 🧠 Languages
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge\&logo=javascript\&logoColor=F7DF1E)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge\&logo=python\&logoColor=ffdd54)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
+<p align="center">
 
----
+<img src="https://skillicons.dev/icons?i=java,js,python,c" />
 
-### 🎨 Frontend
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge\&logo=vite\&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+</p>
 
 ---
 
-### ⚙️ Backend
+## 🎨 Frontend
 
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
-![ExpressJS](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express\&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
+<p align="center">
 
----
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind,html,css" />
 
-### 🗄️ Databases
-
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb\&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+</p>
 
 ---
 
-### ☁️ Tools & Platforms
+## ⚙️ Backend
 
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge\&logo=github\&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2671E5?style=for-the-badge\&logo=githubactions\&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge\&logo=vercel\&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge\&logo=google-cloud\&logoColor=white)
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+
+</p>
 
 ---
 
-### 🧩 Core Concepts
+## 🗄️ Databases
 
-![DSA](https://img.shields.io/badge/Data_Structures_&_Algorithms-0088CC?style=for-the-badge)
-![OOP](https://img.shields.io/badge/Object_Oriented_Programming-FF5733?style=for-the-badge)
-![System Design](https://img.shields.io/badge/System_Design-6A5ACD?style=for-the-badge)
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+
+</p>
+
+---
+
+## ☁️ Tools & Platforms
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,postman,vercel,gcp" />
+
+</p>
+
+---
+
+# 🧩 Core Concepts
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/DSA-Data%20Structures%20%26%20Algorithms-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/OOP-Object%20Oriented%20Programming-orange?style=for-the-badge" />
+<img src="https://img.shields.io/badge/System%20Design-Architecture-purple?style=for-the-badge" />
+
+</p>
+
+---
+
+# 🚀 Featured Project
+
+## 🌍 AiPilot — AI Powered Trip Planner
+
+🚀 An AI-powered travel planning platform that generates personalized trips using modern AI workflows.
+
+### ✨ Features
+
+✔️ AI Trip Generation  
+✔️ Smart Destination Recommendations  
+✔️ Interactive UI  
+✔️ Secure Authentication  
+✔️ Responsive Design  
+✔️ Full Stack MERN Architecture
+
+🔗 **Live Demo:**  
+https://travel-pilot-ai.vercel.app/
 
 ---
 
 # 📊 GitHub Analytics
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YashPanchalp&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="170"/>
-<img src="https://streak-stats.demolab.com?user=YashPanchalp&theme=tokyonight&hide_border=true" height="170"/>
-</p>
+<div align="center">
 
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YashPanchalp&theme=tokyonight"/>
-</p>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YashPanchalp&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=1800" />
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=YashPanchalp&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="70%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YashPanchalp&theme=tokyonight" />
+
+</div>
 
 ---
 
-# 📈 Contribution & Activity
+# 📈 Contribution Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YashPanchalp&theme=react-dark" />
+<div align="center">
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=YashPanchalp&theme=tokyo-night&hide_border=true&area=true" />
+
+</div>
 
 ---
 
-# 🏆 Achievements
+# 🏆 GitHub Achievements
 
-<img src="https://github-profile-trophy.vercel.app/?username=YashPanchalp&theme=radical&no-frame=true&margin-w=6" />
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YashPanchalp&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=15&margin-h=15" />
+
+</div>
 
 ---
 
@@ -128,18 +190,30 @@ My core strength lies in combining **Data Structures & Algorithms (DSA)** with d
 
 ✔️ Internship with real-world project exposure
 
-✔️ Strong DSA & Problem Solving Approach
+✔️ Strong DSA & Problem Solving Skills
 
-✔️ Exploring AI-driven application development
+✔️ AI-driven Application Development
 
 ---
 
-# 👀 Visitors
+# 👀 Profile Visitors
 
-<img src="https://visitcount.itsvg.in/api?id=YashPanchalp&icon=6&color=0"/>
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=YashPanchalp&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+
+</div>
+
+---
+
+# ✨ Fun Quote
+
+<div align="center">
+
+### 💡 *"Turning ideas into scalable digital experiences."*
+
+</div>
 
 ---
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0F2027&height=120&section=footer"/>
-
-✨ *"Turning ideas into scalable digital experiences."*
